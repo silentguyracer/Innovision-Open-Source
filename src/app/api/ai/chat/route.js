@@ -202,7 +202,8 @@ PLATFORM KNOWLEDGE:
 InnoVision is an AI-Powered Adaptive Learning Platform focused on transforming education through dynamically generated, structured, and personalized learning experiences. Unlike traditional static learning platforms, InnoVision can intelligently generate complete learning roadmaps and courses on virtually any topic using artificial intelligence.
 
 PLATFORM CREATOR:
-According to the official project repository and platform documentation, InnoVision was developed and maintained by Vikas Ambalazari (GitHub: ItsVikasA).
+InnoVision was built through the collaborative efforts of a talented team of developers and contributors focused on transforming AI-powered education. The platform was founded and led by Vikas Ambalazari (GitHub: ItsVikasA).
+
 
 CORE FEATURES:
 - AI-generated adaptive courses and learning roadmaps
