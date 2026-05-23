@@ -62,7 +62,8 @@ export default function RootLayout({ children }) {
         <link rel="icon" href="/InnoVision_LOGO-removebg-preview.png" />
         <link rel="apple-touch-icon" href="/InnoVision_LOGO-removebg-preview.png" />
       </head>
-      <body className={`${robotoSans.variable} ${robotoMono.variable} antialiased`}>
+        <a href="#main-content" className="skip-to-content" aria-label="Skip to main content">Skip to content</a>
+        <main id="main-content" className="pt-16 relative"
         <AuthProvider>
           <XpProvider>
             <NightModeProvider>
